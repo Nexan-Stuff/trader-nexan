@@ -1,0 +1,19 @@
+body{
+    background-image: url("img/WOL.jpg");
+}
+#container{
+    margin: 0 auto;
+    width: 760px;
+}
+#content{
+    background-color: #676767;
+}
+#pet{
+    /* save this for later */
+}
+ul#navigation{
+    text-align: center;
+}
+ul#navigation li{
+    display: inline;
+}
