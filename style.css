@@ -3,7 +3,20 @@
    "how to change link color." */
 
    body {
-    background-color: white;
+    /* background-color: white; */
     color: black;
     font-family: Verdana;
   }
+#container{
+    margin: 0 auto;
+    width: 760px;
+}
+#content{
+    background-color: #7c7c7c;
+}
+ul#navigation{
+    text-align: center;
+}
+ul#navigation li{
+    display: inline;
+}
