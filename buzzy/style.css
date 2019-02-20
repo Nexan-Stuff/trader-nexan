@@ -18,11 +18,11 @@ body{
     color: #afa103;
 }
 #content{
+    padding-top: 2px;
     background-color: #676767;
     background-image: url("img/starsbg.gif");
     color: white;
     font-size:15pt;
-    font
 }
 #pet{
     /* save this for later */
