@@ -2,17 +2,31 @@
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
 
-   body {
+body {
     /* background-color: white; */
-    color: black;
+    color: white;
     font-family: Verdana;
-  }
+    background-image: url("img/starrynight_bg.gif");
+}
+a:link{
+  color: #CCFF00;
+}
+a:hover{
+  color: #50BFE6;
+}
+a:visited{
+  color: #FF00CC;
+}
+a:active{
+  color: #FFFF66;
+}
 #container{
     margin: 0 auto;
     width: 760px;
 }
 #content{
-    background-color: #7c7c7c;
+    background-color: #0e2c5e;
+    padding: 5px;
 }
 ul#navigation{
     text-align: center;
