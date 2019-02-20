@@ -5,15 +5,50 @@ body{
     margin: 0 auto;
     width: 760px;
 }
+#container a:link{
+    color:#e5106c;
+}
+#container a:hover{
+    color: #e5106c;
+}
+#container a:visited{
+    color:#10e5c1;
+}
+#container a:active{
+    color: #afa103;
+}
 #content{
     background-color: #676767;
+    background-image: url("img/starsbg.gif");
+    color: white;
+    font-size:15pt;
+    font
 }
 #pet{
     /* save this for later */
+    float: left;
+    margin-right: 10px;
 }
 ul#navigation{
     text-align: center;
+    font-size: 14pt;
 }
 ul#navigation li{
     display: inline;
+    background-color: #000;
+    padding: 5 5;
+    background-image: url("img/bluebutton.gif");
+}
+ ul#navigation a:link{
+     color: #e5106c;
+    /*background-image: url("img/bluebutton.gif");*/
+} 
+ul#navigation a:visited{
+    color: #10e5c1;
+}
+ul#navigation a:hover{
+    color: #e5106c;
+}
+ul#navigation a:active{
+    color: #afa103;
 }
