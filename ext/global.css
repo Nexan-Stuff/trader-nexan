@@ -1,0 +1,5 @@
+img{image-rendering:pixelated !important; /* Chrome/Opera/Safari */
+    image-rendering:-webkit-crisp-edges; /* Safari 6.1-9.1 */
+    image-rendering:-moz-crisp-edges; /* Firefox 3.6-61 */
+    image-rendering:-o-crisp-edges; /* Opera 12 */
+    -ms-interpolation-mode:nearest-neighbor; /* MSIE 7-11 */}
