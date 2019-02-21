@@ -3,10 +3,10 @@
    "how to change link color." */
 
 body {
-    /* background-color: white; */
-    color: white;
-    font-family: Verdana;
-    background-image: url("img/starrynight_bg.gif");
+  /* background-color: white; */
+  color: white;
+  font-family: Verdana;
+  background-image: url("img/backdrop_02.gif");
 }
 a:link{
   color: #CCFF00;
@@ -20,17 +20,22 @@ a:visited{
 a:active{
   color: #FFFF66;
 }
+hr.bamboo{
+  background-image: url("img/bamboo_bar_brown.jpg");
+}
 #container{
-    margin: 0 auto;
-    width: 760px;
+  margin: 0 auto;
+  width: 760px;
 }
 #content{
-    background-color: #0e2c5e;
-    padding: 5px;
+  /* background-color: #0e2c5e; */
+  /* background-image: url("img/tiki_pattern_1.jpg"); */
+  padding: 5px;
+  /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 }
 ul#navigation{
-    text-align: center;
+  text-align: center;
 }
 ul#navigation li{
-    display: inline;
+  display: inline;
 }
