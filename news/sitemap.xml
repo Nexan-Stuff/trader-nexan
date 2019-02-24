@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://trader-nexan.neocities.org/news/posts/tnnn-ep-1/</loc>
+    <lastmod>2019-02-22T09:29:41-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://trader-nexan.neocities.org/news/posts/hello-world/</loc>
     <lastmod>2019-02-21T17:37:55-06:00</lastmod>
   </url>
@@ -13,19 +18,56 @@
   </url>
   
   <url>
+    <loc>https://trader-nexan.neocities.org/news/tags/episode/</loc>
+    <lastmod>2019-02-22T09:29:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trader-nexan.neocities.org/news/categories/episodes/</loc>
+    <lastmod>2019-02-22T09:29:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trader-nexan.neocities.org/news/tags/introduction/</loc>
+    <lastmod>2019-02-22T09:29:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trader-nexan.neocities.org/news/categories/podcast/</loc>
+    <lastmod>2019-02-22T09:29:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://trader-nexan.neocities.org/news/posts/</loc>
-    <lastmod>2019-02-21T17:37:55-06:00</lastmod>
+    <lastmod>2019-02-22T09:29:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trader-nexan.neocities.org/news/tags/random/</loc>
+    <lastmod>2019-02-22T09:29:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trader-nexan.neocities.org/news/tags/season-1/</loc>
+    <lastmod>2019-02-22T09:29:41-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://trader-nexan.neocities.org/news/</loc>
-    <lastmod>2019-02-21T17:37:55-06:00</lastmod>
+    <lastmod>2019-02-22T09:29:41-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://trader-nexan.neocities.org/news/tags/</loc>
+    <lastmod>2019-02-22T09:29:41-06:00</lastmod>
     <priority>0</priority>
   </url>
   

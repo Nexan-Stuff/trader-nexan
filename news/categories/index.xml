@@ -10,5 +10,23 @@
 	<atom:link href="https://trader-nexan.neocities.org/news/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Episodes</title>
+      <link>https://trader-nexan.neocities.org/news/categories/episodes/</link>
+      <pubDate>Fri, 22 Feb 2019 09:29:41 -0600</pubDate>
+      
+      <guid>https://trader-nexan.neocities.org/news/categories/episodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>https://trader-nexan.neocities.org/news/categories/podcast/</link>
+      <pubDate>Fri, 22 Feb 2019 09:29:41 -0600</pubDate>
+      
+      <guid>https://trader-nexan.neocities.org/news/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
