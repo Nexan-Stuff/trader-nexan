@@ -22,13 +22,25 @@ a:active{
 }
 #container{
   margin: 0 auto;
-  width: 760px;
+  width: 800px;
 }
 #content{
   /* background-color: #0e2c5e; */
   /* background-image: url("img/tiki_pattern_1.jpg"); */
   padding: 5px;
   /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+}
+.bamboo {
+  background-image: url("img/bamboo_bar_brown.jpg");
+  width: 800px;
+ height: 25px;
+ background-repeat: repeat-x;
+ position: absolute;
+ padding-top: 50px;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ left: 50%;
+ transform: translate(-50%);
 }
 #navigation{
   text-align: center;
